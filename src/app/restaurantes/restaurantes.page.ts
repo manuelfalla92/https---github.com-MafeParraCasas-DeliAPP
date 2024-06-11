@@ -97,4 +97,4 @@ export class RestaurantesPage {
     this.navCtrl.navigateForward('/compras');
   }
  
-}
+} 

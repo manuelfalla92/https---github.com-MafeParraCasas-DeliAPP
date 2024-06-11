@@ -89,7 +89,7 @@ export class RestaurantesPage {
       phone: '951-147-7890',
       address: 'Calle Principal 59-99, Ciudad'
     }
-  ];
+  ]; 
 
   constructor(private navCtrl: NavController) {}
 
